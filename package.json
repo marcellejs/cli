@@ -1,7 +1,7 @@
 {
   "name": "@marcellejs/cli",
   "description": "Command-line Marcelle generator",
-  "version": "0.0.1-alpha.3",
+  "version": "0.0.2",
   "homepage": "https://github.com/marcellejs/cli",
   "main": "lib/",
   "bin": {
@@ -43,7 +43,7 @@
   "preferGlobal": true,
   "dependencies": {
     "commander": "^6.2.0",
-    "generator-marcelle": "0.0.1-alpha.4",
+    "generator-marcelle": "0.0.2",
     "semver": "^7.3.2",
     "update-notifier": "^5.0.1",
     "yeoman-environment": "^2.10.3"
