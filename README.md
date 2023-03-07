@@ -1,3 +1,7 @@
+# The CLI has moved!
+
+The CLI package is now part of Marcelle's main monorepo at [marcellejs/marcelle](https://github.com/marcellejs/marcelle). This repository is no longer maintained.
+
 # Marcelle CLI
 
 [![npm version](https://img.shields.io/npm/v/@marcellejs/cli)](https://www.npmjs.com/package/@marcellejs/cli)
